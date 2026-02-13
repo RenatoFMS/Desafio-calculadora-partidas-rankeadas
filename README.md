@@ -28,6 +28,7 @@ O programa utiliza funções para calcular o saldo de vitórias (vitórias - der
 ## 🛠️ Como Instalar e Rodar
 
 1. Certifique-se de ter o **Node.js** instalado.
+
 2. No terminal do seu projeto, instale a dependência de entrada de dados:
    ```bash
    npm install prompt-sync
